@@ -5,4 +5,4 @@ This solution was built using the following stack:
 * 
 
 
-![](/images/pactera-logo.png)
+![](/pactera-logo.png)
