@@ -1,5 +1,8 @@
-# hostingtest
+**Weather Project Notes**
 
-[Read more words!](pactera-logo.png)
+This solution was built using the following stack:
+1. web client
+* 
 
-![](pactera-logo.png)
+
+![](/images/pactera-logo.png)
