@@ -1,2 +1,3 @@
-![](/Users/angusjohnston/Dropbox/PERSONAL/git-wiki/pactera-logo.png)
+![](https://www.dropbox.com/s/dywg9vpzulxkj1o/pactera-logo.png?dl=0)
+
 
